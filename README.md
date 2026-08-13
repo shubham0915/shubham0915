@@ -19,12 +19,12 @@
 
 ## Building intelligent systems through data and machine learning
 
-I am a Data Science and Machine Learning enthusiast with hands-on experience in building Agentic RAG systems, predictive analytics pipelines, and data-driven solutions. My work focuses on extracting actionable insights from complex datasets and deploying robust AI applications.
+I am a Data Science and Machine Learning enthusiast with hands-on experience in building Agentic RAG systems, predictive analytics pipelines, and scalable Big Data solutions. My work focuses on extracting actionable insights from complex datasets and deploying robust AI applications utilizing technologies like Apache Spark and Kafka.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=shubham0915&theme=aurora&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=shubham0915&theme=aurora&mode=dark" width="100%" alt="About Shubham" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/about-light.svg" />
+    <img src="assets/about-dark.svg" width="100%" alt="About Shubham" />
   </picture>
 </p>
 
