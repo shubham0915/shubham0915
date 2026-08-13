@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=shubham0915&theme=aurora&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=shubham0915&theme=aurora&mode=dark" width="100%" alt="Animated profile hero for Shubham" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg" />
+    <img src="assets/hero-dark.svg" width="100%" alt="Animated profile hero for Shubham" />
   </picture>
 </p>
 
