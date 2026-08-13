@@ -69,7 +69,7 @@ The contribution graph is part of the profile experience. It refreshes automatic
 ## Current focus
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=shubham0915&theme=aurora&items=Machine%20Learning::Building%20predictive%20models|Generative%20AI::Developing%20Agentic%20RAG%20systems|Data%20Science::Analyzing%20and%20visualizing%20complex%20data" width="100%" alt="Current focus areas for Shubham" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=shubham0915&theme=aurora&items=AI%2FML%20and%20RAG::Developing%20intelligent%20systems%20and%20predictive%20models|Enterprise%20Solutions::Building%20scalable%20data-driven%20architectures|Core%20Languages::Python%20and%20Java%20for%20robust%20analytics%20pipelines" width="100%" alt="Current focus areas for Shubham" />
 </p>
 
 <p align="center">
