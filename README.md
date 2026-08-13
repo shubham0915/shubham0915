@@ -38,7 +38,11 @@ I am a Data Science and Machine Learning enthusiast with hands-on experience in 
 | --- | --- |
 | **Enterprise Agentic RAG System** | Enterprise-grade Agentic RAG system parsing complex document formats with Gemini embeddings, LangGraph, FastAPI, and NeMo Guardrails. |
 | **Privacy-Safe Ad Recommendation Engine** | Scalable data pipeline and backend API using DuckDB clean room, Differential Privacy, FastAPI, and Redis for real-time personalized ads. |
+| **SuperStore Analytics Hub** | Unified KPI and dashboard hub for faster business reporting using Streamlit, Power BI, and Plotly. |
+| **Hotel Reviews Sentiment Analysis** | Multi-model NLP (VADER, RoBERTa, BERT) for structured guest sentiment into a comparison-ready reporting flow. |
 | **Student Exam Score Prediction** | Machine learning system predicting student exam scores from behavioral lifestyle features using Scikit-Learn and a Streamlit dashboard. |
+| **Movie Success Analysis** | Exploratory data analysis (EDA) to surface signals tied to movie performance using Pandas and Jupyter Notebooks. |
+| **LaptopAnalysis** | Reusable notebook for fast model-to-model and price-to-spec laptop comparison using Python and Data Visualization. |
 
 <p align="center">
   <a href="https://github.com/shubham0915"><b>Explore more on GitHub</b></a>
