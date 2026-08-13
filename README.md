@@ -31,7 +31,10 @@ I am a Data Science and Machine Learning enthusiast with hands-on experience in 
 ## Selected work
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=shubham0915&theme=aurora&v=2" width="100%" alt="Selected projects by Shubham" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/projects-light.svg" />
+    <img src="assets/projects-dark.svg" width="100%" alt="Selected projects by Shubham" />
+  </picture>
 </p>
 
 | Project | What it is |
