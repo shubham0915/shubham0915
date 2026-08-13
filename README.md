@@ -1,62 +1,57 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=asamassekou10&theme=aurora&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=asamassekou10&theme=aurora&mode=dark" width="100%" alt="Animated profile hero for Alhassane Samassekou" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=shubham0915&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=shubham0915&theme=aurora&mode=dark" width="100%" alt="Animated profile hero for Shubham" />
   </picture>
 </p>
 
 <p align="center">
-  <a href="https://www.shipsafecli.com"><b>ship-safe</b></a>
+  <a href="https://www.linkedin.com/in/shubhamk9/"><b>LinkedIn</b></a>
   &nbsp;·&nbsp;
-  <a href="https://www.gitskins.com">GitSkins</a>
+  <a href="mailto:shubhamkuya@gmail.com">Email</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/asamassekou10?tab=repositories">Projects</a>
+  <a href="https://github.com/shubham0915?tab=repositories">Projects</a>
 </p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/wordmark?username=asamassekou10&theme=aurora&label=Alhassane%20Samassekou" width="100%" alt="Animated 3D wordmark for Alhassane Samassekou" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=shubham0915&theme=aurora&label=Shubham" width="100%" alt="Animated 3D wordmark for Shubham" />
 </p>
 
-## Building safer systems for the agentic era
+## Building intelligent systems through data and machine learning
 
-I am a full-stack AI engineer and the founder of [ship-safe](https://github.com/asamassekou10/ship-safe), an open-source security scanner for the AI agent lifecycle. My work focuses on making powerful software easier to inspect, safer to operate, and more useful in the real world.
-
-I build across product engineering, AI security, developer tools, and interactive interfaces. The common thread is turning complex systems into clear, useful experiences.
+I am a Data Science and Machine Learning enthusiast with hands-on experience in building Agentic RAG systems, predictive analytics pipelines, and data-driven solutions. My work focuses on extracting actionable insights from complex datasets and deploying robust AI applications.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=asamassekou10&theme=aurora&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=asamassekou10&theme=aurora&mode=dark" width="100%" alt="About Alhassane Samassekou" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=shubham0915&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=shubham0915&theme=aurora&mode=dark" width="100%" alt="About Shubham" />
   </picture>
 </p>
 
 ## Selected work
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=asamassekou10&theme=aurora" width="100%" alt="Selected projects by Alhassane Samassekou" />
+  <img src="https://www.gitskins.com/api/section/projects?username=shubham0915&theme=aurora" width="100%" alt="Selected projects by Shubham" />
 </p>
 
 | Project | What it is |
 | --- | --- |
-| [ship-safe](https://github.com/asamassekou10/ship-safe) | Agent-focused security scanner for CI/CD risks, tool injection, secrets, permissions, and unsafe AI dependencies. |
-| [prismor](https://github.com/asamassekou10/prismor) | Runtime firewall for AI agents that evaluates dangerous tool calls before they run. |
-| [mcp-bridge](https://github.com/asamassekou10/mcp-bridge) | A lightweight way to expose a website as a structured MCP-compatible context stream. |
-| [anatomy](https://github.com/asamassekou10/anatomy) | Interactive 3D human anatomy exploration built with Three.js. |
+| **Enterprise Agentic RAG System** | Enterprise-grade Agentic RAG system parsing complex document formats with Gemini embeddings, LangGraph, FastAPI, and NeMo Guardrails. |
+| **Privacy-Safe Ad Recommendation Engine** | Scalable data pipeline and backend API using DuckDB clean room, Differential Privacy, FastAPI, and Redis for real-time personalized ads. |
+| **Student Exam Score Prediction** | Machine learning system predicting student exam scores from behavioral lifestyle features using Scikit-Learn and a Streamlit dashboard. |
 
 <p align="center">
-  <a href="https://github.com/asamassekou10/ship-safe"><b>Explore ship-safe</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.shipsafecli.com">Visit shipsafecli.com</a>
+  <a href="https://github.com/shubham0915"><b>Explore more on GitHub</b></a>
 </p>
 
 ## Engineering signal
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=asamassekou10&theme=aurora" width="100%" alt="Technology stack for Alhassane Samassekou" />
+  <img src="https://www.gitskins.com/api/section/stack?username=shubham0915&theme=aurora" width="100%" alt="Technology stack for Shubham" />
 </p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=asamassekou10&theme=aurora" width="100%" alt="GitHub activity stats for Alhassane Samassekou" />
+  <img src="https://www.gitskins.com/api/section/stats?username=shubham0915&theme=aurora" width="100%" alt="GitHub activity stats for Shubham" />
 </p>
 
 ## A profile that moves
@@ -64,22 +59,21 @@ I build across product engineering, AI security, developer tools, and interactiv
 The contribution graph is part of the profile experience. It refreshes automatically from this repository and turns public activity into a small visual system.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/asamassekou10/asamassekou10/output/space-shooter.gif" width="100%" alt="Animated Space Shooter contribution game" />
+  <img src="https://raw.githubusercontent.com/shubham0915/shubham0915/output/space-shooter.gif" width="100%" alt="Animated Space Shooter contribution game" />
 </p>
-
 
 ## Current focus
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=asamassekou10&theme=aurora&items=AI%20security::Making%20agent%20systems%20safer|Developer%20tools::Turning%20complex%20workflows%20into%20clear%20interfaces|Open%20source::Building%20useful%20software%20in%20public" width="100%" alt="Current focus areas for Alhassane Samassekou" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=shubham0915&theme=aurora&items=Machine%20Learning::Building%20predictive%20models|Generative%20AI::Developing%20Agentic%20RAG%20systems|Data%20Science::Analyzing%20and%20visualizing%20complex%20data" width="100%" alt="Current focus areas for Shubham" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/asamassekou10?tab=repositories">See all repositories</a>
+  <a href="https://github.com/shubham0915?tab=repositories">See all repositories</a>
   &nbsp;·&nbsp;
   <a href="https://www.gitskins.com/readme-generator">Build a profile like this</a>
 </p>
 
 <p align="center">
-  <sub>Designed with GitSkins. Built in public.</sub>
+  <sub>Designed with GitSkins.</sub>
 </p>
